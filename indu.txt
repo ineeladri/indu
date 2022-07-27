@@ -1,5 +1,1 @@
-
-hui
-my world
-miracle software system
-i like myself
+a=100
